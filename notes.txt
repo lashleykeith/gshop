@@ -1,0 +1,6 @@
+1.  I need to make sure that this app can send emails to the user. Check the Settings.py file
+
+2.  We created a URL that was suppose to send you a link to create a new password when you logged in but instead it didn't create a new password.  It just says password is already completed.
+
+
+3. Signal isn't sending the email even though I though I added the code.
